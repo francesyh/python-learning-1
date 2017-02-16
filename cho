@@ -1,0 +1,4 @@
+去除print语句，加入print()函数实现相同的功能。同样的还有 exec语句，已经改为exec()函数 
+   例如： 
+     2.X: print “The answer is”, 2*2 
+     3.X: print(“The answer is”, 2*2) 
